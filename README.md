@@ -8,4 +8,4 @@
 jaoo8/jaoo8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://tenor.com/pt-BR/view/shigure-ui-dance-ui-mama-ui-shigure-vtuber-gif-10958440613599029550)
+![](https://tenor.com/pt-BR/view/shigure-ui-dance-ui-mama-ui-shigure-vtuber-gif-18111321657019803006)
